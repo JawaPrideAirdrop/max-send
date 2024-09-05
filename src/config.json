@@ -1,0 +1,10 @@
+{
+    "networks": {
+      "yourNetworkKey": {
+        "rpcUrl": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+        "tokenContractAddress": "0xYourTokenContractAddress"
+      }
+    },
+    "privateKey": "0xprivatekey"
+  }
+  
